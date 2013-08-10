@@ -33,5 +33,5 @@ running application at http://localhost:5000/mt-static/MT6ToDo/index.html
 ## SEE ALSO
 This sample ToDo application was in reference to the following:
 
-Webpage: http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/
+Webpage: http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/  
 Github: https://github.com/addyosmani/yeoman-examples/tree/master/backbone-localStorage-todos
