@@ -28,7 +28,7 @@ $ mv mt-data-api-todo-sample /path/to/mt-static/MT6ToDo
 $ cd /path/to/mt/
 $ plackup mt.psgi
 ```
-running application at http://localhost:5000/mt-static/MT6ToDo/index.html
+running application at http://localhost:5000/mt-static/MT6ToDo/dist/index.html
 
 ## SEE ALSO
 This sample ToDo application was in reference to the following:
